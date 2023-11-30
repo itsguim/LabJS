@@ -14,7 +14,7 @@
  * 
  * 
  * Na minha análise:
- * --- This só é interessante de se usar junto a arrow functions, se trabalhado num escopo fechado/conhecido. 
+ * --- This só é interessante de se usar junto a arrow functions, caso se trabalhe num escopo fechado/conhecido. 
  * --- OBS: Se a arrow function for declarada em escopo global, o this SEMPRE vai se referenciar ao objeto global.
  * */
 
